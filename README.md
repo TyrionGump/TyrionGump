@@ -24,11 +24,11 @@
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TyrionGump&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&role=owner,collaborator&theme=radical&bg_color=101414" alt="Andrew Sun's Github stats" />
+<img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TyrionGump&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&role=owner,collaborator&theme=radical&bg_color=0D1117" alt="Andrew Sun's Github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TyrionGump&layout=compact&langs_count=6&hide_border=true&role=owner,collaborator&theme=radical&bg_color=101414" alt="Andrew Sun's Language stats" />
+<img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TyrionGump&layout=compact&langs_count=6&hide_border=true&role=owner,collaborator&theme=radical&bg_color=0D1117" alt="Andrew Sun's Language stats" />
 </a>
 </div>
 

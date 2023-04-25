@@ -7,7 +7,7 @@
 - 💬 Ask me about everything but I cannot give you any answer. Please ask chatGPT
 - 📫 How to reach me: email? maybe
 - 😄 Pronouns: what is this?
-- ⚡ Fun fact: ..................?
+- ⚡ Fun fact: ...................?
 
 
 <!-- Light Mode -->

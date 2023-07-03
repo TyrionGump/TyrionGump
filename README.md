@@ -17,7 +17,7 @@
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=150 src="https://github-readme-stats-psfkrs202-tyriongump.vercel.app/api/top-langs/?username=TyrionGump&layout=compact&langs_count=6&count_private=true&hide_border=true&role=owner,collaborator&theme=transparent" alt="Andrew Sun's Language stats" />
+<img height=150 src="https://github-readme-stats-psfkrs202-tyriongump.vercel.app/api/top-langs/?username=TyrionGump&layout=compact&langs_count=6&hide=html,css&count_private=true&hide_border=true&role=owner,collaborator&theme=transparent" alt="Andrew Sun's Language stats" />
 </a>
 </div>
 
@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=150 src="https://github-readme-stats-psfkrs202-tyriongump.vercel.app/api/top-langs/?username=TyrionGump&exclude_repo=github-readme-stats,Online_Hailing_System&count_private=true&layout=compact&langs_count=6&hide_border=true&role=owner,collaborator&theme=radical&bg_color=0D1117" alt="Andrew Sun's Language stats" />
+<img height=150 src="https://github-readme-stats-psfkrs202-tyriongump.vercel.app/api/top-langs/?username=TyrionGump&exclude_repo=github-readme-stats,Online_Hailing_System&hide=html,css&count_private=true&layout=compact&langs_count=6&hide_border=true&role=owner,collaborator&theme=radical&bg_color=0D1117" alt="Andrew Sun's Language stats" />
 </a>
 </div>
 

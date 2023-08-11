@@ -1,5 +1,4 @@
 ### Hi stranger 👋
-。。
 
 - 🔭 I’m currently working on slacking
 - 🌱 I’m currently learning ? ? ?, and ?.

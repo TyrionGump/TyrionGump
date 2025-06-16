@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with my nut brain <.<
 - 💬 Ask me about everything but I cannot give you any answer. Please ask chatGPT
 - 📫 How to reach me: email? maybe
-- 😄 Pronouns: what is this?
+- 😄 Pronouns: helicopter
 - ⚡ Fun fact: .......................?
 
 
